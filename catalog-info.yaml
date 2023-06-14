@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-cra
+  description: Express for NodeJS
+spec:
+  type: website
+  lifecycle: experimental
+  owner: Amrit
